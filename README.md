@@ -9,6 +9,7 @@ A simple, modular Dart library to detect credit card types based on:
 
 ## 🗂️ Project Structure
 
+```
 main/
 ├── main.dart # Entry point for CLI
 lib/
@@ -22,7 +23,7 @@ lib/
 │ └── card_detector.dart # Card detection logic
 ├── utils/
 │ └── luhn_validator.dart # Luhn checksum implementation
-
+```
 
 ---
 
